@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/matrix-banner.svg" width="100%" alt="Eduard Lugovtsov — DevOps / Platform Engineer" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=39D353&center=true&vCenter=true&width=780&height=80&lines=DevOps+%2F+Platform+Engineer;Infrastructure+as+Code+%E2%86%92+Terraform+%7C+Pulumi+%7C+Helm;Kubernetes+at+scale+%2F%2F+CI%2FCD+%2F%2F+Observability;Automating+the+boring+stuff%2C+one+pipeline+at+a+time" alt="typing banner" />
 
 <br/>
@@ -11,7 +15,7 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/matrix-divider.svg" width="100%" alt="" /></div>
 
 ## `$ whoami`
 
@@ -49,6 +53,8 @@
 [ ok ]  level-2 PagerDuty on-call rotation ............. prod uptime      24/7
 ```
 
+<div align="center"><img src="./assets/matrix-divider.svg" width="100%" alt="" /></div>
+
 ## `$ tech --stack`
 
 | `layer` | `tooling` |
@@ -62,6 +68,8 @@
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
 | **Tooling & VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![JFrog](https://img.shields.io/badge/JFrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+<div align="center"><img src="./assets/matrix-divider.svg" width="100%" alt="" /></div>
 
 ## `$ ./monitor --dashboard`
 
@@ -78,7 +86,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abyssmemes&bg_color=0D1117&color=39D353&line=39D353&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/abyssmemes/abyssmemes/output/snake.svg" alt="contribution snake" />
+
 </div>
+
+<div align="center"><img src="./assets/matrix-divider.svg" width="100%" alt="" /></div>
 
 ## `$ git log --trophies`
 
@@ -87,6 +101,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=abyssmemes&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="trophies" />
 
 </div>
+
+<div align="center"><img src="./assets/matrix-divider.svg" width="100%" alt="" /></div>
 
 ## `$ ./connect --me`
 
@@ -98,7 +114,7 @@
 
 </div>
 
----
+<div align="center"><img src="./assets/matrix-divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
